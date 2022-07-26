@@ -1,10 +1,10 @@
 modLoader="javafml"
 loaderVersion="[41,)"
-license="All rights reserved"
+license="MIT License"
 
 [[mods]]
 modId="morecrossbows"
-version="1.0"
+version="${file.jarVersion}"
 displayName="More Crossbows"
 logoFile="icon.png"
 credits="Thank you for installing this mod!"
