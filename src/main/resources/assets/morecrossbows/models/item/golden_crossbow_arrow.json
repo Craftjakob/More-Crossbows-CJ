@@ -1,0 +1,6 @@
+{
+    "parent": "morecrossbows:item/golden_crossbow",
+    "textures": {
+        "layer0": "morecrossbows:item/golden_crossbow_arrow"
+    }
+}

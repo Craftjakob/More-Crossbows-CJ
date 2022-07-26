@@ -1,0 +1,22 @@
+{
+	"item.morecrossbows.copper_crossbow": "Kupfercrossbogen",
+	"item.morecrossbows.iron_crossbow": "Eisener Crossbogen",
+	"item.morecrossbows.golden_crossbow": "Goldener Crossbogen",
+	"item.morecrossbows.emerald_crossbow": "Smaragd Crossbogen",
+	"item.morecrossbows.diamond_crossbow": "Diamant Crossbogen",
+	"item.morecrossbows.netherite_crossbow": "Netheritcrossbogen",
+	"item.morecrossbows.damage_tooltip": "Projektil Schaden",
+	
+	"advancements.adventure.morecrossbows.obtain_copper_crossbow.title": "Kupfercrossbogen",
+	"advancements.adventure.morecrossbows.obtain_copper_crossbow.description": "Ein Crossbogen aus Kupfer!",
+	"advancements.adventure.morecrossbows.obtain_iron_crossbow.title": "Eisener Crossbogen",
+	"advancements.adventure.morecrossbows.obtain_iron_crossbow.description": "Ein Crossbogen aus Eisen!",
+	"advancements.adventure.morecrossbows.obtain_golden_crossbow.title": "Goldener Crossbogen",
+	"advancements.adventure.morecrossbows.obtain_golden_crossbow.description": "Ein Crossbogen aus Gold!",
+	"advancements.adventure.morecrossbows.obtain_emerald_crossbow.title": "Smaragd Crossbogen",
+	"advancements.adventure.morecrossbows.obtain_emerald_crossbow.description": "Ein Crossbogen aus Smaragd!",
+	"advancements.adventure.morecrossbows.obtain_diamond_crossbow.title": "Diamant Crossbogen",
+	"advancements.adventure.morecrossbows.obtain_diamond_crossbow.description": "Ein Crossbogen aus Diamant!",
+	"advancements.adventure.morecrossbows.obtain_netherite_crossbow.title": "Netheritcrossbogen",
+	"advancements.adventure.morecrossbows.obtain_netherite_crossbow.description": "Ein Crossbogen aus Netherit!"
+}

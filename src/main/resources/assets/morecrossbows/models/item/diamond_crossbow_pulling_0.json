@@ -1,0 +1,6 @@
+{
+    "parent": "morecrossbows:item/diamond_crossbow",
+    "textures": {
+        "layer0": "morecrossbows:item/diamond_crossbow_pulling_0"
+    }
+}

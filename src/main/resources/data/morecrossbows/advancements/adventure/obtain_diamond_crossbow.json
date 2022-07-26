@@ -1,0 +1,40 @@
+{
+	"display": {
+		"icon": {
+			"item": "morecrossbows:diamond_crossbow"
+		},
+		"title": {
+			"translate": "advancements.adventure.morecrossbows.obtain_diamond_crossbow.title"
+		},
+		"description": {
+			"translate": "advancements.adventure.morecrossbows.obtain_diamond_crossbow.description"
+		},
+		"frame": "challenge",
+		"show_toast": true,
+		"announce_to_chat": true,
+		"hidden": false
+	},
+	"parent": "morecrossbows:adventure/obtain_emerald_crossbow",
+	"criteria": {
+		"diamond_crossbow": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": [
+							"morecrossbows:diamond_crossbow"
+						]
+					}
+				]
+			}
+		}
+	},
+	"requirements": [
+		[
+			"diamond_crossbow"
+		]
+	],
+	"rewards": {
+		"experience": 100
+	}
+}

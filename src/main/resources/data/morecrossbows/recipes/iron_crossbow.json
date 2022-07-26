@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "#1#",
+    "###"
+  ],
+  "key": {
+    "1": {
+      "item": "morecrossbows:copper_crossbow"
+    },
+    "#": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "result": {
+    "item": "morecrossbows:iron_crossbow",
+    "count": 1
+  }
+}

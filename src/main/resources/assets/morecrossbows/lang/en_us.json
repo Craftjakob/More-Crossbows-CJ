@@ -1,0 +1,22 @@
+{
+	"item.morecrossbows.copper_crossbow": "Copper Crossbow",
+	"item.morecrossbows.iron_crossbow": "Iron Crossbow",
+	"item.morecrossbows.golden_crossbow": "Golden Crossbow",
+	"item.morecrossbows.emerald_crossbow": "Emerald Crossbow",
+	"item.morecrossbows.diamond_crossbow": "Diamond Crossbow",
+	"item.morecrossbows.netherite_crossbow": "Netherite Crossbow",
+	"item.morecrossbows.damage_tooltip": "Projectile Damage",
+	
+	"advancements.adventure.morecrossbows.obtain_copper_crossbow.title": "Copper Crossbow",
+	"advancements.adventure.morecrossbows.obtain_copper_crossbow.description": "A crossbow of copper!",
+	"advancements.adventure.morecrossbows.obtain_iron_crossbow.title": "Iron Crossbow",
+	"advancements.adventure.morecrossbows.obtain_iron_crossbow.description": "A crossbow of iron!",
+	"advancements.adventure.morecrossbows.obtain_golden_crossbow.title": "Golden Crossbow",
+	"advancements.adventure.morecrossbows.obtain_golden_crossbow.description": "A crossbow of gold!",
+	"advancements.adventure.morecrossbows.obtain_emerald_crossbow.title": "Emerald Crossbow",
+	"advancements.adventure.morecrossbows.obtain_emerald_crossbow.description": "A crossbow of emerald!",
+	"advancements.adventure.morecrossbows.obtain_diamond_crossbow.title": "Diamond Crossbow",
+	"advancements.adventure.morecrossbows.obtain_diamond_crossbow.description": "A crossbow of diamond!",
+	"advancements.adventure.morecrossbows.obtain_netherite_crossbow.title": "Netherite Crossbow",
+	"advancements.adventure.morecrossbows.obtain_netherite_crossbow.description": "A crossbow of netherite!"
+}

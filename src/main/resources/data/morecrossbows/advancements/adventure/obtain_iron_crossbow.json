@@ -1,0 +1,40 @@
+{
+	"display": {
+		"icon": {
+			"item": "morecrossbows:iron_crossbow"
+		},
+		"title": {
+			"translate": "advancements.adventure.morecrossbows.obtain_iron_crossbow.title"
+		},
+		"description": {
+			"translate": "advancements.adventure.morecrossbows.obtain_iron_crossbow.description"
+		},
+		"frame": "task",
+		"show_toast": true,
+		"announce_to_chat": true,
+		"hidden": false
+	},
+	"parent": "morecrossbows:adventure/obtain_copper_crossbow",
+	"criteria": {
+		"iron_crossbow": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": [
+							"morecrossbows:iron_crossbow"
+						]
+					}
+				]
+			}
+		}
+	},
+	"requirements": [
+		[
+			"iron_crossbow"
+		]
+	],
+	"rewards": {
+		"experience": 10
+	}
+}

@@ -1,0 +1,28 @@
+modLoader="javafml"
+loaderVersion="[41,)"
+license="All rights reserved"
+
+[[mods]]
+modId="morecrossbows"
+version="1.0"
+displayName="More Crossbows"
+logoFile="icon.png"
+credits="Thank you for installing this mod!"
+authors="Craftjakob"
+description='''
+This mod adds new bow version. 
+All versions of Crossbows: 
+Iron Crossbow, Copper Crossbow, Gold Crossbow, Diamond Crossbow, Emerald Crossbow, Netherite Crossbow
+'''
+[[dependencies.morecrossbows]]
+    modId="forge"
+    mandatory=true
+    versionRange="[41,)"
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.morecrossbows]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.19,1.20)"
+    ordering="NONE"
+    side="BOTH"
